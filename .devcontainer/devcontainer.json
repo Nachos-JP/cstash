@@ -1,0 +1,4 @@
+{
+  "name": "cstash devcontainer",
+  "image": "rust:1.74.1"
+}
