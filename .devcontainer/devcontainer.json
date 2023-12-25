@@ -1,6 +1,4 @@
 {
   "name": "cstash devcontainer",
-  "dockerComposeFile": "../docker-compose.yml",
-  "service": "rust",
-  "workspaceFolder": "/workspace"
+  "image": "rust:1.74.1"
 }
